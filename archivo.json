@@ -1,0 +1,24 @@
+	{
+    "dateAndTime": "2000-07-09",
+    "madeBy": "Jonathan",
+    "products": [{
+      "productId": "abc",
+        "quantity": 5,
+        "cost": 500,
+        "name": "Name",
+        "category": "Algo"
+      },{
+          "productId": "abd",
+          "quantity": 5,
+          "cost": 500,
+          "name": "Name3",
+          "category": "Algo"
+        },
+        {
+          "productId": "abr",
+          "quantity": 5,
+          "cost": 500,
+          "name": "Name2",
+          "category": "Algo2"
+        }]
+    }
